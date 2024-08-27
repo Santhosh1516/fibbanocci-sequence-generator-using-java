@@ -1,2 +1,1 @@
-#fibbanocci sequence generator upto to the given range by user
 A simple Java program that generates the Fibonacci sequence up to a user-defined number of terms. This project demonstrates basic concepts of loops and number generation, making it an excellent resource for beginners in Java programming. The Fibonacci sequence is a fundamental concept with applications in various fields such as algorithm design, mathematics, and computer graphics.
